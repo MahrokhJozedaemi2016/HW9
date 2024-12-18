@@ -24,7 +24,7 @@ You will only get 100 if the entire QR program passes GitHub actions, so you wil
 2.  [Listen to someone else explain FastAPI and go through a project](https://www.youtube.com/watch?v=cbASjoZZGIw)
 
 # Install
-1. Clone
+1. Clone the repo
 2. Make virtual environment:  python3 -m venv venv
 3. Activate virtual environment: source venv/bin/activate
 4. Install requirements: pip install -r requirements.txt
